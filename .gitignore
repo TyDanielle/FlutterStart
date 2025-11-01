@@ -1,0 +1,10 @@
+# 업로드에 포함안되는 디렉토리
+.idea/
+.mvn
+target/
+build/
+dict/
+
+# 업로드에 포함안되는 파일
+keys.txt
+*.xml
